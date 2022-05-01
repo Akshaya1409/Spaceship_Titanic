@@ -1,3 +1,5 @@
 # Spaceship_Titanic
-<b> Link to problem statemet </b>
-<a> https://www.kaggle.com/competitions/spaceship-titanic/data</a>
+<p><b> Link to problem statemet </b></p>
+<br><br>
+<p>
+<a> https://www.kaggle.com/competitions/spaceship-titanic/data</a></p>
